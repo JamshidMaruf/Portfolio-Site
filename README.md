@@ -1,19 +1,7 @@
 <div align="center">
-  <h1><a href="https://mahmad.me" target="_blank">Mahmad.me</a></h1>
+  <h1><a href="https://thejama.uz" target="_blank">Mahmad.me</a></h1>
   My personal portfolio website to show my skills, experience, and articles I published
 </div>
-
-## Built with
-- **Framework**: [Next.js](https://nextjs.org/)
-- **Styling**: [Chakra UI](https://chakra-ui.com/)
-- **Animations**: [Framer Motion](https://www.framer.com/motion/)
-- **Highlight Blog Content**: [prismjs](https://prismjs.com/)
-- **Markdown Processor**: [remark](https://remark.js.org/)
-- **ORM**: [prisma](https://www.prisma.io/)
-- **Deployment**: [Vercel](https://vercel.com)
-- **Api's**:
-  - [Dev.to](https://dev.to/api)
-  - [Github](https://api.github.com)
 
 ## Overview
 
@@ -35,7 +23,7 @@
 ## Running Locally
 
 ```sh
-git clone https://github.com/MA-Ahmad/myPortfolio
+git clone https://github.com/wonderboy1w3/Portfolio-Site
 cd myPortfolio && yarn install
 yarn dev
 ```
