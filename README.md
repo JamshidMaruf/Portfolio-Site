@@ -1,5 +1,5 @@
 <div align="center">
-  <h1><a href="https://thejama.uz" target="_blank">Mahmad.me</a></h1>
+  <h1><a href="https://thejama.uz" target="_blank">thejama.uz</a></h1>
   My personal portfolio website to show my skills, experience, and articles I published
 </div>
 
